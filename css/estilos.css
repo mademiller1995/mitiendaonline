@@ -1,0 +1,11 @@
+.col-sm{
+	justify-content: center;
+	text-align: center;
+	margin-bottom: 20px;
+}
+/*form*/
+form{
+	padding: 80px;
+	justify-content: center;
+}
+
